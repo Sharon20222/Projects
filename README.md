@@ -43,28 +43,7 @@ It is designed to be **clear, extensible, and portfolio-ready** — something yo
   - Markdown report automatically generated
   - Equity curve charts saved as PNG
 
----
 
-## 📂 Project Structure
-```
-
-commodities-ta-backtest/
-│
-├── README.md
-├── requirements.txt
-└── src/
-├── data.py
-├── indicators.py
-├── strategies.py
-├── backtest.py
-├── metrics.py
-├── plot.py
-├── report.py
-└── main.py
-
-````
-
----
 
 ## ⚙️ Installation
 ```bash
