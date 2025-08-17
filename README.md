@@ -129,11 +129,3 @@ The report contains:
 
 ---
 
-## 📜 License
-
-MIT License – free to use, modify, and distribute.
-
-```
-
-
-```
