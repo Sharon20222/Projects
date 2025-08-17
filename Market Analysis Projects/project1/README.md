@@ -121,14 +121,3 @@ pip install -r requirements.txt
 
 ---
 
-## Contributing
-
-Feel free to fork the repo and add:
-
-* New strategies
-* Additional technical indicators
-* Portfolio backtesting
-* Visualization improvements
-
----
-
