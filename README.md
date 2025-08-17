@@ -1,28 +1,4 @@
 
-```
-commodities-ta-backtest/
-│
-├── README.md
-├── requirements.txt
-└── src/
-    ├── data.py
-    ├── indicators.py
-    ├── strategies.py
-    ├── backtest.py
-    ├── metrics.py
-    ├── plot.py
-    ├── report.py
-    └── main.py
-```
-
----
-
-✅ Let’s start **fresh with File 1 only**:
-
----
-
-### 📄 File 1: `README.md`
-
 ```markdown
 # Commodities Technical Analysis & Backtesting
 
