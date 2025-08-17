@@ -3,7 +3,7 @@
 # Trading Strategy Backtester
 
 A Python project for analyzing and backtesting trading strategies on historical market data.  
-This project combines **data analysis** with **quantitative trading** concepts, allowing you to test strategies like SMA crossovers and RSI mean-reversion on assets such as commodities, stocks, or indices.
+This project combines data analysis with quantitative trading concepts, allowing you to test strategies like SMA crossovers and RSI mean-reversion on assets such as commodities, stocks, or indices.
 
 ---
 
