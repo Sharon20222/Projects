@@ -1,3 +1,5 @@
+
+```
 commodities-ta-backtest/
 │
 ├── README.md
@@ -134,5 +136,12 @@ The report contains:
 * Python 3.8+
 * See `requirements.txt` for dependencies
 
+---
 
+## 📜 License
 
+MIT License – free to use, modify, and distribute.
+
+```
+
+---
