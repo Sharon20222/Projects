@@ -1,4 +1,4 @@
-```
+
 commodities-ta-backtest/
 │
 ├── README.md
@@ -12,9 +12,9 @@ commodities-ta-backtest/
     ├── plot.py
     ├── report.py
     └── main.py
-```
 
-```markdown
+
+
 # Commodities Technical Analysis & Backtesting
 
 This project is a **Python-based framework** for analyzing commodities markets, testing trading strategies, and evaluating performance.  
