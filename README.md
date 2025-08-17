@@ -28,7 +28,7 @@ It is designed to be **clear, extensible, and portfolio-ready** — something yo
 ---
 
 ## 📂 Project Structure
-```
+````
 
 commodities-ta-backtest/
 │
